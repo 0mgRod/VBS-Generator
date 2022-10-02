@@ -21,7 +21,7 @@
       <?php
       $servername = "464055";
 $username = "464055";
-$password = "Rodrigo2010!";
+$password = "************";
 
 // Create connection
 $con = new mysqli($servername, $username, $password);
